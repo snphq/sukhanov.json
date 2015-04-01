@@ -1,0 +1,24 @@
+{
+  "name": "sukhanov.json",
+  "version": "0.0.0",
+  "authors": [
+    "Maksim Koretskiy <maksim.koretskiy@saltpepper.ru>"
+  ],
+  "description": "Ultimate development productivity tool for Salt & Pepper team",
+  "main": "sukhanov.json",
+  "keywords": [
+    "json",
+    "tool",
+    "productivity",
+    "joke"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/snphq/sukhanov.json",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
