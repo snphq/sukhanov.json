@@ -1,4 +1,4 @@
-# Sukhanv.json
+# Sukhanov.json
 
 > Ultimate development productivity tool for Salt & Pepper team
 
